@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanushreegorai
 - 👀 I’m interested in cloud computing, cloudOps and AI/ML.
-- 📫 How to reach me - on <a>linkedin</a> and gmail.
+- 📫 How to reach me - on linkedin and gmail.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am great at music production and recordings.
 
